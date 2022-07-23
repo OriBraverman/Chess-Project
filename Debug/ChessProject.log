@@ -1,0 +1,6 @@
+﻿  Q6.c
+C:\Users\sagi3\source\repos\ChessProject\ChessProject\Q6.c(77,25): warning C4013: 'listSize' undefined; assuming extern returning int
+C:\Users\sagi3\source\repos\ChessProject\ChessProject\Q6.c(112,12): warning C4101: 'res_size': unreferenced local variable
+C:\Users\sagi3\source\repos\ChessProject\ChessProject\Q6.c(218,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sagi3\source\repos\ChessProject\ChessProject\Q6.c(181): warning C4715: 'decode_dictionary': not all control paths return a value
+  ChessProject.vcxproj -> C:\Users\sagi3\source\repos\ChessProject\Debug\ChessProject.exe
